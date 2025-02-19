@@ -1,4 +1,4 @@
-//This is a script to set encoded values to properties before using them in a request for the url-encoded message.
+//This is a script to set encoded values to properties before using them in a request for content type is x-www-form-urlencoded on the Boomi connector operation.
 
 
 import java.util.Properties;
