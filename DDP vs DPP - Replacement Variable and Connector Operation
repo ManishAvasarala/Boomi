@@ -1,0 +1,2 @@
+The replacement variables and the request headers in the HTTP connector operation only work in combination with DDPs (Dynamic Document Property) and not DPP(Dynamic Process Property).
+The best practice would be to use the Set Properties shape before the Connector to assign DDP values that will be used in the connector operation.
